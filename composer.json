@@ -1,0 +1,12 @@
+{
+    "name": "peter/boottut",
+    "description": "A clean Bootstrap sample.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Pete Hecht",
+            "email": "peteehecht@gmail.com"
+        }
+    ],
+    "require": {}
+}
